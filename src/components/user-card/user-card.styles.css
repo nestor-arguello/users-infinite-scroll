@@ -1,0 +1,20 @@
+.UserCard {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--red-400);
+  margin: 15px;
+  border-radius: 6px;
+  padding: 40px;
+  box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.2);
+}
+
+.UserCard img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 0 auto 30px auto;
+}
+
+.UserCard .property {
+  margin: 2px 0;
+}

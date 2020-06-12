@@ -1,0 +1,10 @@
+.UsersList {
+  min-width: 320px;
+  width: 60%;
+  max-width: 500px;
+  height: 100vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
